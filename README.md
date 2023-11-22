@@ -4,7 +4,7 @@ maimaidx传分loon插件
 原项目地址：https://github.com/huajip/dx-prober-updater
 
 使用方法
-方法一：<a href="loon://import?plugin=https://raw.githubusercontent.com/wsyzxjn/proberupdater-loon/main/prober-updater.plugin">一键导入</a>
+方法一：<a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/wsyzxjn/proberupdater-loon/main/prober-updater.plugin">一键导入</a>
 
 方法二：手动添加
 <a href="https://raw.githubusercontent.com/wsyzxjn/proberupdater-loon/main/prober-updater.plugin">插件地址</a>
