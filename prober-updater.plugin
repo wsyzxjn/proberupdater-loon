@@ -1,0 +1,9 @@
+#!name= 舞萌DX传分
+#!desc= 在公众号添加传分按钮   
+#!author= neri
+
+[script]
+http-response ^https?://maimai.wahlap.com/maimai-mobile/(?!js|css|img|error|termsOfService|sitePolicy|\?t) script-path=https://prober.jinale.com/js/score_upload_inject_surge.js, requires-body=true, timeout=10, tag=舞萌DX查分器传分
+
+[mitm]
+hostname = maimai.wahlapcom
